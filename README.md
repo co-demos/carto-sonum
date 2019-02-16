@@ -11,7 +11,7 @@ Les dossiers sont organisés de la manière suivante :
 - `/photos` : 
 
 ### éléments de cadrage et de synthèse
-- `/charte_graphique` : fichiers 
+- `/graphisme` : fichiers des différents éléments constituant la charte graphique (maquette, charte graphique, ...)
 - `/synthese` : fichiers de synthèse (liste livrables, recommandations UI-UX, recommandations tech, médiation...) au format .PDF, .DOC, .TXT, .MD ...
 
 Merci de donner des noms explicites aux fichiers que vous modifierez/ajouterez, ainsi que bien les ajouter dans le dossier qui leur correspond le mieux
