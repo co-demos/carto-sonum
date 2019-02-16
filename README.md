@@ -1,6 +1,12 @@
-## INFORMATIONS
-Ce repo contiendra l'ensemble des éléments "custom" propres au projet de cartographie SoNum, indépendamment du code source d'Apiviz
+## INFORMATIONS / METHODOLOGIE
+Ce repo contiendra l'ensemble des éléments "custom" propres au projet de cartographie SoNum, indépendamment du code source d'Apiviz. Ceci permettra une meilleure flexibilité et coordination : 
+- le chantier purement technique s'effectuera sur le repo ApiViz, dans le but d'en améliorer la généricité
+- les contenus et documents de cadrage (maquette, charte graphique...) produits par chacun.e seront mis à jour sur ce repo
+- les issues propres au projet de cartographie SoNum seront associées à ce repo
+- les issues propres au développement d'ApiViz seront associées au repo ApiViz
+- la vision générale de l'avancée du projet (gestion des sprints) sera visible et modifiable sur [le(s) projet(s) au niveau plus général de l'organisation co-demos](https://github.com/orgs/co-demos/projects), notamment le [sprint#1](https://github.com/orgs/co-demos/projects/1) concernant la première phase
 
+## ORGANISATION DES DOSSIERS
 Les dossiers sont organisés de la manière suivante : 
 
 ### contenus du site
@@ -14,4 +20,6 @@ Les dossiers sont organisés de la manière suivante :
 - `/graphisme` : fichiers des différents éléments constituant la charte graphique (maquette, charte graphique, ...)
 - `/documentation` : fichiers de synthèse et de documentation (liste livrables, recommandations UI-UX, recommandations tech, médiation...) au format .PDF, .DOC, .TXT, .MD ...
 
+
+## NOTE METHODOLOGIQUE
 Merci de donner des noms explicites aux fichiers que vous modifierez/ajouterez, ainsi que bien les ajouter dans le dossier qui leur correspond le mieux
