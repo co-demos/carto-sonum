@@ -1,4 +1,4 @@
-dossier contenant tous les fichiers relatifs à des contenus texte : 
+`/textes`: dossier contenant tous les fichiers relatifs à des contenus texte : 
 - éditorial, 
 - mot ministre, ... 
 
