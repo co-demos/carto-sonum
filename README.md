@@ -15,6 +15,7 @@ Les dossiers sont organisés de la manière suivante :
 - `/logos` : fichiers (images) des logos au format .PNG, .JPG, .SVG
 - `/illustrations` : fichiers des illustrations/images (background ou foreground) au format .PNG, .JPG, .SVG
 - `/photos` : fichiers des photos/images au format .PNG, .JPG, .SVG
+- `/pages-html`: fichiers HTML qui seront pointés par l'instance d'Apiviz 
 
 ### éléments de cadrage et de synthèse
 - `/graphisme` : fichiers des différents éléments constituant la charte graphique (maquette, charte graphique, ...)
